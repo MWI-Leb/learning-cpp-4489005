@@ -5,7 +5,8 @@
 #include <iostream>
 #include <string>
 
-int main(){
+int main()
+{
     std::string str;
     std::cout << "Enter your name: " << std::flush;
     std::cin >> str;
